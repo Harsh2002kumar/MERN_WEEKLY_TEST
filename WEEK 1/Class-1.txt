@@ -8,3 +8,8 @@ git --version //to check version of git in system
 
 Initialization : git init //start tracking for particular files/folder
 Modification/Adding : git add file_Name
+
+They talk about
+pwd-present woring directory
+ls-list
+cd-change directory
